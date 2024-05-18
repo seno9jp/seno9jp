@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seno9jp)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seno9jp)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seno9jp)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=seno9jp&column=9&margin-w=20&margin-h=20)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/seno9jp/seno9jp/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/seno9jp/seno9jp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 **seno9jp/seno9jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
